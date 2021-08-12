@@ -22,7 +22,7 @@ class Farm
         return $this->getCart();
     }
 
-    public function getCart()
+    private function getCart()
     {
         foreach ($this->cart as $item) {
             $array[$item['type']] = [
@@ -31,4 +31,5 @@ class Farm
         }
         return $array;
     }
+
 }
