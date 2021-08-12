@@ -4,7 +4,6 @@
 
 ## Usage
 
-Use
 
 ```php
 cd test_task_1
