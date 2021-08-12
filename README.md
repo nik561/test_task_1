@@ -7,7 +7,7 @@
 
 ```php
 cd test_task_1
-composer require
+composer install	
 // main.php
 php main.php
 // How to test
