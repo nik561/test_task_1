@@ -1,7 +1,7 @@
 <?php
 
 
-class Chicken
+class Chicken extends Animal
 {
 
 }
